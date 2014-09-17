@@ -1,0 +1,6 @@
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\bin\Debug\LinqExampleWhere1.exe.config
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\bin\Debug\LinqExampleWhere1.exe
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\bin\Debug\LinqExampleWhere1.pdb
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\obj\Debug\LinqExampleWhere1.csprojResolveAssemblyReference.cache
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\obj\Debug\LinqExampleWhere1.exe
+c:\users\jwalant83\documents\visual studio 2012\Projects\LinqExampleWhere1\LinqExampleWhere1\obj\Debug\LinqExampleWhere1.pdb
